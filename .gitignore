@@ -1,0 +1,5 @@
+# compiled python files
+*.py[co]
+__pycache__/
+*.swp
+*.idea
